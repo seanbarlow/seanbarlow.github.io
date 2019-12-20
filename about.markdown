@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Certifications
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="69898a8e-659e-4b94-b3bd-a9ed37386cbf"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="17ddc878-4080-48d8-b49a-88d9f4862dfd"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="084c3bfc-dfb3-4c6a-81de-abe1b3562e2e"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-[jekyll-organization]: https://github.com/jekyll
+### Contact me
+
+[sean@simpletoad.com](mailto:sean@simpletoad.com)
