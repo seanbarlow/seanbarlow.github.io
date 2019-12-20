@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting in the rhythm on blogging"
+title:  "Getting in the rhythm of blogging"
 date:   2019-12-20 16:26:12 -0600
 categories: blog update
 ---
