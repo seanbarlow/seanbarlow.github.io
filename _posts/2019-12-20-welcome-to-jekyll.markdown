@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 1: Welcome to my new blog"
+title:  "Welcome"
 date:   2019-12-20 14:50:12 -0600
 categories: blog update
 ---
